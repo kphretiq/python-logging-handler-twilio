@@ -78,7 +78,7 @@ Your sms will arrive as a formatted json object as the body of the text.
 ```json
 {
  "function": "<module>", 
- "host": "kreplach", 
+ "host": "soichiro", 
  "file": "./test.py", 
  "logger name": "twilio", 
  "time": "2015-08-11 12:18:33,836", 
